@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10mm"
+   height="10mm"
+   viewBox="0 0 9.9999998 9.9999998"
+   version="1.1"
+   id="svg1798"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="1cm_circle.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1800"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74208053"
+     inkscape:cx="237.17103"
+     inkscape:cy="403.59501"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1795" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.952423,-41.609818)">
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.000327647;-inkscape-stroke:hairline"
+       id="path1914"
+       cx="46.952423"
+       cy="46.609818"
+       r="5" />
+  </g>
+</svg>

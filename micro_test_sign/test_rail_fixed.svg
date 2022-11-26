@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg70863"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="test_rail_fixed.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview70865"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74208053"
+     inkscape:cx="396.18342"
+     inkscape:cy="561.25984"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs70860" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path70159"
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.00132292;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-stroke:hairline"
+       d="m 10,10 v 4.66689 h 3.00085 v 2.99982 H 19.001 v -2.99982 h 6.00015 v 2.99982 h 6.00015 v -2.99982 h 5.99963 v 2.99982 h 6.00015 v -2.99982 h 6.00015 v 2.99982 h 5.99964 v -2.99982 h 6.00015 v 2.99982 h 6.00015 v -2.99982 h 5.99963 v 2.99982 h 6.00015 v -2.99982 h 6.00015 v 2.99982 h 6.000149 v -2.99982 h 5.99964 v 2.99982 h 5.999631 v -2.99982 h 6.00015 v 2.99982 h 5.99963 v -2.99982 h 5.99964 v 2.97864 h 5.99963 v -2.97864 h 3.00034 V 10 H 126.99957 13.00033 Z" />
+  </g>
+</svg>

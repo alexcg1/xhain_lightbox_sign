@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="120mm"
+   viewBox="0 0 300 120"
+   version="1.1"
+   id="svg11492"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="cent.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11494"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     height="50mm"
+     inkscape:zoom="0.74475309"
+     inkscape:cx="539.77621"
+     inkscape:cy="467.26896"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs11489" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 36.272233,109.67963 c 21.792428,0 29.921355,-8.3019 29.921355,-21.273595 v -16.08492 l -25.943375,1.72957 v 8.82076 c 0,2.07547 0,5.70755 -4.15096,5.70755 -4.150927,0 -4.150927,-3.63208 -4.150927,-5.70755 v -30.26732 c 0,-1.90252 0,-6.22642 4.150927,-6.22642 4.15096,0 4.15096,4.3239 4.15096,6.22642 v 10.37737 l 25.943375,-1.72957 v -13.49057 c 0,-12.97171 -8.128927,-21.2736 -29.921355,-21.2736 -25.078606,0 -30.2672833,8.99372 -30.2672833,21.61951 v 39.95286 c 0,12.625785 5.1886773,21.619505 30.2672833,21.619505 z"
+       style="font-weight:900;font-size:88.1944px;line-height:1.25;font-family:'Smooch Sans';-inkscape-font-specification:'Smooch Sans, Heavy';letter-spacing:3.96875px;baseline-shift:baseline;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.00137283;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-stroke:hairline"
+       id="path9759" />
+    <path
+       d="m 99.048019,109.44572 c 21.792441,0 29.921391,-8.30189 29.921391,-21.273591 v -10.55032 l -25.9434,1.72956 v 3.28617 c 0,2.07547 0,5.70755 -4.150961,5.70755 -4.15093,0 -4.15093,-3.63208 -4.15093,-5.70755 v -9.51259 h 34.245291 v -25.5975 c 0,-12.97171 -8.12895,-21.2736 -29.921391,-21.2736 -25.078627,0 -30.267304,8.99372 -30.267304,21.61951 v 39.95286 c 0,12.625791 5.188677,21.619501 30.267304,21.619501 z m -4.3239,-57.075501 c 0,-1.90252 0,-6.22642 4.15093,-6.22642 4.150961,0 4.150961,4.3239 4.150961,6.22642 v 7.26416 h -8.301891 z"
+       style="font-weight:900;font-size:88.1944px;line-height:1.25;font-family:'Smooch Sans';-inkscape-font-specification:'Smooch Sans, Heavy';letter-spacing:3.96875px;baseline-shift:baseline;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.00137283;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-stroke:hairline"
+       id="path9761" />
+    <path
+       d="m 132.05511,28.163797 v 81.289343 h 25.94341 V 53.069477 c 0,-3.97799 1.38365,-5.5346 4.32391,-5.5346 3.11319,0 3.97797,1.55661 3.97797,5.5346 v 56.383663 h 25.94339 V 44.248717 c 0,-12.27989 -6.74528,-17.64152 -17.81445,-17.64152 -8.47485,0 -15.39308,3.28616 -18.67925,10.03145 l -2.4214,-8.47485 z"
+       style="font-weight:900;font-size:88.1944px;line-height:1.25;font-family:'Smooch Sans';-inkscape-font-specification:'Smooch Sans, Heavy';letter-spacing:3.96875px;baseline-shift:baseline;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.00137283;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-stroke:hairline"
+       id="path9769" />
+    <path
+       d="m 228.65246,110.99081 h 15.56605 V 90.236095 h -7.43711 c -5.18868,0 -7.26414,-2.59434 -7.26414,-9.51258 v -31.65097 h 8.99369 l 5.8805,-19.37108 H 229.51726 V 14.481337 h -19.02518 l -4.3239,15.220128 h -8.12893 v 19.37108 h 5.70755 v 44.27676 c 0,16.430815 11.58807,17.641505 24.90566,17.641505 z"
+       style="font-weight:900;font-size:88.1944px;line-height:1.25;font-family:'Smooch Sans';-inkscape-font-specification:'Smooch Sans, Heavy';letter-spacing:3.96875px;baseline-shift:baseline;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.00137283;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-stroke:hairline"
+       id="path9771" />
+  </g>
+</svg>

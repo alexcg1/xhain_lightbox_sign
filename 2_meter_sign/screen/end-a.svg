@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="126.26457mm"
+   height="75.334595mm"
+   viewBox="0 0 126.26457 75.334593"
+   version="1.1"
+   id="svg1541"
+   sodipodi:docname="end-a.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1543"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74208053"
+     inkscape:cx="211.56733"
+     inkscape:cy="37.057973"
+     inkscape:current-layer="layer1"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs1538" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-246.19655,-31.145428)">
+    <path
+       id="path1167"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 372.32883,37.287729 h -62.99999 v -6.01001 h -60 m 0,0 v 0 6.01001 h -3 v 6.01001 h 3 v 5.99998 h -3 v 6.01001 h 3 v 5.99998 h -3 v 6.01001 h 3 v 6.01001 h -3 v 5.99999 h 3 v 6.01001 h -3 v 6.00001 h 3 v 6.00998 h -3 v 9.000011 h 9 v -3 h 6.353 v 3 h 6.35299 v -3 h 6.3528 v 3 h 6.353 v -3 h 6.3529 v 3 h 6.3529 v -3 h 6.353 v 3 h 6.35291 v -3 h 6.353 v 3 h 6.3529 v -3 h 6.3529 v 3 h 6.353 v -3 h 6.35289 v 3 h 6.35299 v -3 h 6.3529 v 3 h 6.35291 v -3 h 6.35301 v 3 h 8.99999 v -9.000011 h -3.00001 v 0 -6.00998 h 3.00001 v -6.00001 h -3.00001 v -6.01001 h 3.00001 v -5.99999 h -3.00001 v -6.01001 h 3.00001 v -6.01001 h -3.00001 v -5.99998 h 3.00001 v -6.01001 h -3.00001 v -5.99998 h 3.00001 v -6.01001 h -3.00001 v 0" />
+  </g>
+</svg>

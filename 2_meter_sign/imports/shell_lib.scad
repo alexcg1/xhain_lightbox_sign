@@ -1,0 +1,97 @@
+//tests:
+
+/*shell2d()
+{
+    square(10);
+    circle(r=1,$fn=30);
+}*/
+
+/*difference()
+{
+    shell()
+{
+    cube(10);
+    sphere(r=1,$fn=30);
+}
+
+cylinder(d=10,h=10,$fn=30);
+}*/
+
+module shell(dir=0,bbox=[[-1000,-1000,-1000],[1000,1000,1000]])
+{
+    intersection()
+    {
+        if(dir>-1)
+        {
+            minkowski()
+            {
+                children(0);
+                children(1);
+            }
+        }
+        else
+        {
+            children(0);
+        }
+        if(dir<1)
+        {
+            minkowski()
+            {
+                difference()
+                {
+                    translate(bbox[0])cube([bbox[1][0]-bbox[0][0],bbox[1][1]-bbox[0][1],bbox[1][2]-bbox[0][2]]);
+                    children(0);
+                }
+                children(1);
+            }
+        }
+        else
+        {
+            difference()
+                {
+                    translate(bbox[0])cube([bbox[1][0]-bbox[0][0],bbox[1][1]-bbox[0][1],bbox[1][2]-bbox[0][2]]);
+                    children(0);
+                }
+        }
+    }
+}
+
+
+module shell2d(dir=0,bbox=[[-1000,-1000],[1000,1000]])
+{
+    intersection()
+    {
+        if(dir>-1)
+        {
+            minkowski()
+            {
+                children(0);
+                children(1);
+            }
+        }
+        else
+        {
+            children(0);
+        }
+        if(dir<1)
+        {
+            minkowski()
+            {
+                difference()
+                {
+                    translate(bbox[0])square([bbox[1][0]-bbox[0][0],bbox[1][1]-bbox[0][1]]);
+                    children(0);
+                }
+                children(1);
+            }
+        }
+        else
+        {
+            difference()
+                {
+                    translate(bbox[0])square([bbox[1][0]-bbox[0][0],bbox[1][1]-bbox[0][1]]);
+                    children(0);
+                }
+        }
+    }
+}

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="76.957603mm"
+   height="113.92949mm"
+   viewBox="0 -141 76.957603 113.92949"
+   version="1.1"
+   id="svg1085"
+   sodipodi:docname="lightbox_test_stencil.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1089" />
+  <sodipodi:namedview
+     id="namedview1087"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.84437199"
+     inkscape:cx="-29.607804"
+     inkscape:cy="36.12152"
+     inkscape:current-layer="svg1085"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <title
+     id="title1081">OpenSCAD Model</title>
+  <metadata
+     id="metadata1169">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>OpenSCAD Model</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     aria-label="B"
+     transform="matrix(0.91950787,0,0,1.0875383,-3.4480145,-0.46644549)"
+     id="text3700"
+     style="font-size:69.059px;line-height:1.25;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.00076133;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-stroke:hairline">
+    <path
+       d="m 16.00915,-53.778696 18.57687,-46.062352 q 0.69059,-1.795532 2.486124,-1.795532 h 30.3169 q 4.903189,0 7.044018,3.107653 2.140829,3.038596 -0.06906,8.563316 l -1.519298,3.798245 q -0.621531,1.588357 -1.933652,3.522009 -1.243062,1.864593 -3.038596,3.245773 1.312121,1.519298 1.588357,4.14354 0.276236,2.624242 -1.104944,6.146251 l -2.209888,5.45566 q -2.624242,6.491546 -6.284368,9.115788 -3.591068,2.555183 -10.082614,2.555183 H 34.862256 q -1.864593,0 -1.035885,-1.795534 l 3.729186,-9.392024 q 0.828708,-1.864593 2.555183,-1.864593 h 9.599201 q 2.693301,0 3.729186,-2.6933 l 0.483413,-1.243062 q 0.483413,-1.104944 0.06906,-1.933652 -0.414354,-0.828708 -1.519298,-0.828708 H 42.251569 q -1.243062,0 -0.759649,-1.174003 l 3.383891,-8.356139 q 0.483413,-1.174003 1.657416,-1.174003 h 7.872726 q 2.555183,0 3.798245,-2.76236 l 0.345295,-0.759649 q 0.414354,-1.104944 0,-1.933652 -0.414354,-0.828708 -1.588357,-0.828708 H 45.359224 q -0.69059,0 -0.966826,0.621531 l -13.880859,34.322322 q -0.69059,1.795534 -2.624242,1.795534 H 17.045035 q -1.864593,0 -1.035885,-1.795534 z"
+       style="font-family:'Pervitina Dex';-inkscape-font-specification:'Pervitina Dex';vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.00076133;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-stroke:hairline"
+       id="path7013" />
+  </g>
+  <rect
+     style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.541176;stroke:#000000;stroke-width:0.000700042;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-stroke:hairline"
+     id="rect7597"
+     width="76.957603"
+     height="113.92949"
+     x="0"
+     y="-141" />
+</svg>
